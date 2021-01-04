@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api//?username=x-meienberg&theme=algolia" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=traffinjam&theme=algolia" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=smartspot&theme=algolia" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=swiss-statisticst&theme=algolia" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=msc-aero&theme=algolia" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=swiss-statistics&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=msc-studies-aero&theme=algolia" />
 
 

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-meienberg&theme=algolia" />
 <img align="center" src="https://github-readme-stats.vercel.app/api//?username=x-meienberg&theme=algolia" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=x-meienberg" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-meienberg&langs_count=8" />
 
 
 

@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-meienberg&theme=algolia" />
 <img align="center" src="https://github-readme-stats.vercel.app/api//?username=x-meienberg&theme=algolia" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=github-readme-stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=x-meienberg&repo=traffinjam&theme=algolia" />
 
 
